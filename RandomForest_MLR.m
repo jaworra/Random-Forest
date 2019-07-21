@@ -98,7 +98,7 @@ if CO == 1 || CO == 3
     leaf=5; % this number could be varied.
     ntrees=800; % this number could be varied.
     fboot=1; % this number could be varied.
-    surrogate='on'; % this could be set ‘on’ or ‘off’
+    surrogate='on'; % this could be set â€˜onâ€™ or â€˜offâ€™
 
     % leaf=1, 3, 5, 10, 20;
     % ntrees=50, 200, 800, 1600;
@@ -167,7 +167,7 @@ elseif CO == 4
     leaf=5; % this number could be varied.
     ntrees=800; % this number could be varied.
     fboot=1; % this number could be varied.
-    surrogate='on'; % this could be set ‘on’ or ‘off’
+    surrogate='on'; % this could be set â€˜onâ€™ or â€˜offâ€™
     
     %Trainging Periods ------------------
     %Build Model 
